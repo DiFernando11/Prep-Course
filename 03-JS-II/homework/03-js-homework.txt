@@ -1,0 +1,23 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si 
+se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier 
+agujero en tu comprensión.
+
+* `for`
+el bucle for, es uno de nuestros bucles que tenemos en el lenguaje, sirve para acortar una considerable cantidad 
+de codigo, al realizar la misma operacion n veces de vueltas, sus principales usos, son para imprimir n valores,
+para recorridos de arrays, y son vitales para sostener funciones de una complejidad alta. 
+* `&&`
+los operadores logicos, nos facilita la forma de realizar una condicion , este operador nos permite verificar 
+mas de una condicion, y nos va a regresar un "true", si y solo si los dos o mas valor cumplan con la condicion 
+de lo contrario nos regresara un false, se loco conoce como "and", para una lectura mas comprensible puede leerse
+de la siguiente manera, si la condicion1 y la condicion2 cumplen con la condicion nos devolveran true;. 
+,
+ `||`
+ los operadores logicos, nos facilita la forma de realizar una condicion , este operador nos permite verificar 
+ mas de una condicion, y nos va a regresar un "true", si uno de los dos cumple con la condicion o si los dos 
+ cumplen con la misma, si los dos no la cumplen regresara un false, se loco conoce como "or", para una lectura 
+ mas comprensible puede leerse de la siguiente manera, si la condicion1 o la condicion2 cumplen con la condicion 
+ nos devolveran true;. 
+, `!`
+este operador, nos permite negar un valor, en pocas palabras todo lo verdadero nos devuelve como falso, y todo 
+lo falso como verdadero, al igual que el resto nos permite verificar nuestras condiciones de una manera mas simple.
