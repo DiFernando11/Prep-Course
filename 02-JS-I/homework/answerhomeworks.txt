@@ -1,0 +1,28 @@
+* Variables
+ las variables nos permite guardar un tipo de dato especifico dentro de un nombre simbolico para nosotros como 
+ desarrolladores, tambien lo podemos ver como una cajita que nos guarda cierta 
+ informacion para utilizarla mas adelante o en el momento, la cual se va almacenar dentro de un pequeño espacio 
+ de la memoria de nuestra computadora.
+ los datos guardados en la variable pueden cambiar a lo largo del programa, para no caer en estos errores, 
+ las sintaxis de javaScript nos brindan palabras reservadas, para poder manejar estos datos de manera correcta 
+ y con buenas practicas.
+
+ * Strings
+ los strings son las conocidas letras y caracters que forman oraciones en pocas palabras son cadenas de caracters, 
+ que nos permiten almacenarlas dentro de una variable, su uso es muy comun dentro del codigo de todo programador, 
+ algunos de sus usos, son guardar el nombre, apellido, o algun mensaje dentro de la consola que pueda ser util, 
+ entre muchos otros casos, la podemos identificar dentro del codigo de javaScript al encontrar una variable inicializada 
+ con una cadena caracteres encapsulada por comillas. 
+ * Funciones (argumentos, `return`)
+
+ * Declaraciones `if`
+ if es un tipo de condicional, el cual siempre nos devolvera un resultado, si cumple la condicion nos devuelve 
+ el resultado dentro de la condicion, caso contrario cumplira la condicion dentro del else, un ejemplo practico 
+ de la vida real es , si tendenemos la cama, mama nos premiara y si no la tendemos, mama nos castigara, es importante 
+ tener en cuenta los valores de comparacion, que nos permitiran tener uso correcto de las condicionales.
+
+  * Valores booleanos (`true`, `false`)
+ los valores booleanos los podemos inicializar con dos valores, true y false, al igual que los string son un tipo de dato
+ que nos permiten guardalos en la cajita de las variables, este dato nos permitira ser flexibles en funciones que 
+ necesitemos una corta respuesta, un ejemplo puede ser, si una variable es igual a otra variable y los inicializamos
+ como valor booleano, nos retornara true si son iguales o false si no son iguales. 
