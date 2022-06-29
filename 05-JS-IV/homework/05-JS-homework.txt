@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si
+ se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier 
+ agujero en tu comprensión.
+
+	* Objetos
+    un objeto al igual que un array es un contendedor de informacion, lo que hace especial al objeto, es la
+    simplicidad al momento de utilizarlo ya que nos permite darle propiedades y dinamismo a cada variable que
+    esta dentro de un objeto, estos son indespensables para verlos como objetos traidos de la vida real;
+	* Propiedades
+    Las propiedades del objeto son asignadas como si fueras a inicializar una variable, de esta manera podemos
+    guarda toda nuestra informacion dentro de ellas.
+	* Métodos
+    ademas de propiedades, se puede definir metodos dentro de un objeto, como por ejemplo un objeto futbolista
+    puede tener el metodo de patear una pelota, o un objeto estudiante puede tener el metodo de estudiar;
+	* Bucle `for…in`
+    el bucle como saber sirve para recorrer algo en el codigo, en este caso el objeto tiene un propio bucle que
+    se lo conoce como for-in , itera por las propiedades, para devolvernos las propiedades que necsitemos segun
+    sea el caso;
+	* Notación de puntos vs notación de corchetes
+    la notacion de puntos es mas usada por los programador por su simplicidad de obter dicha popiedad, pero su
+    ejecucion es muy similar a la notacion de corchetes, su diferencia es que la notacion de corchetes podemos
+    realizar metodos con esta carecteristica que pueden funcionar mejor que la notacion de puntos.
