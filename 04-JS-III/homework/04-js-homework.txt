@@ -1,0 +1,5 @@
+	* Arrays
+
+    Los arrays son una cajita que puede ser contenedora de muchos datos que queremos almacenas, estos arreglos
+    nos permitiran tener un codigo mucho mas limpio, ademas de dejarnos operar de una manera eficiente con Los
+    datos que se almacenan en ella.
