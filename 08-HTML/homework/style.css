@@ -1,0 +1,27 @@
+h1{
+    color: rgb(6, 104, 104);
+}
+
+li{
+    list-style: none;
+}
+img{
+    width: 400px;
+    height: 300px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background: rgb(54, 20, 86);
+    padding: 50px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+}
