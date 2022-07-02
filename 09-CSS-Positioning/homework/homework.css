@@ -7,32 +7,78 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+  display: block;
+  text-align: center;
 }
-
-
 /* Ejercicio 2: Posicionar el header */
 
 /* Acá va tu código */
-
-
-
+#ejercicioDos {
+  display: none;
+}
 /* Ejercicio 3: */
 
 /* Acá va tu código */
-
-
-
+#ejercicioTres {
+  position: relative;
+  top: 100px;
+  left: 200px;
+}
 /* Ejercicio 4: */
 
 /* Acá va tu código */
-
-
-
+#ejercicioCuatro {
+  position: absolute;
+  top: 0;
+}
 /* Ejercicio 5: */
-
-/* Acá va tu código */
-
-
-
 /* Ejercicio 6. */
+/* Acá va tu código */
+#ejercicioCinco {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+}
+
+/* Ejercicio 7. */
+#ejercicioSiete {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+#elementoCuatro {
+  background-color: rgb(51, 178, 136);
+  align-self: flex-end;
+}
+#elementoTres {
+  background-color: rgb(141, 43, 246);
+  align-self: center;
+}
+#elementoDos {
+  background-color: rgb(232, 103, 103);
+  align-self: baseline;
+}
+#elementoUno {
+  background-color: rgb(69, 206, 216);
+  align-self: center;
+}
+#elementoCuatro:hover  {
+    background-color: rgb(186, 10, 116);
+    align-self: flex-start;
+  }
+  #elementoTres:hover  {
+    background-color: rgb(240, 11, 133);
+    align-self: flex-start;
+  }
+  #elementoDos:hover  {
+    background-color: rgb(186, 227, 24);
+    align-self: flex-end;
+  }
+  #elementoUno:hover  {
+    background-color: rgb(47, 12, 246);
+    align-self: flex-start;
+  }
+
+
+
